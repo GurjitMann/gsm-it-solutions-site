@@ -1,6 +1,6 @@
-# GSM IT Solutions Website
+# GSM ETRM Solutions Website
 
-Updated static website package for GSM IT Solutions.
+Updated static website package for GSM ETRM Solutions.
 
 ## Files
 - `index.html`
@@ -30,3 +30,6 @@ Energy Trading Systems Consultancy with Endur / ETRM expertise first, supported 
 ## Contact details included
 - Phone: 07866 900174
 - Email: gurjit_m@hotmail.com
+
+## Branding
+Website brand: GSM ETRM Solutions
