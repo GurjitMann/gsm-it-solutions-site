@@ -6,3 +6,7 @@ Includes:
 - General enquiries: discuss@gsmetrm.com
 - Hiring enquiries: hiring@gsmetrm.com
 - Hiring section and roles
+
+## V7 update
+- Replaced chat bubble with proper WhatsApp-style SVG floating icon.
+- Removed large Message on WhatsApp button from contact area.
